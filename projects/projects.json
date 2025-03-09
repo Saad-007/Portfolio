@@ -1,0 +1,42 @@
+[
+  {
+    "name": "MINTRA CLONE",
+    "desc": "Frontend Mintra clone built using HTML CSS AND javascript Now making it more dynmicaly",
+    "image": "logo-myntra-41476",
+    "category": "Front-end",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "CALCULATOR",
+    "desc": "Built an Calculator using HTML CSS and Javascript .",
+    "image": "calculator",
+    "category": "Front-end",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/flipkart-mern"
+    }
+  },
+  {
+    "name": "TODO APP",
+    "desc": "With the help off javascript basic functionality.",
+    "image": "Todo",
+    "category": "Front-end",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/jigar-sable/resumegen"
+    }
+  },
+  {
+    "name": "React-Projects",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "react",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/React-Projects"
+    }
+  }
+ ]
