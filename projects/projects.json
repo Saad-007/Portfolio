@@ -15,8 +15,8 @@
     "image": "calculator",
     "category": "Front-end",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "view": "https://saad-007.github.io/Calculator/",
+      "code": "https://github.com/Saad-007/Calculator"
     }
   },
   {
@@ -25,18 +25,18 @@
     "image": "Todo",
     "category": "Front-end",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "https://saad-007.github.io/Todo/",
+      "code": "https://github.com/Saad-007/Todo"
     }
   },
   {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "name": "Small Crick",
+    "desc": "It's a small Crcket Game you can play with your device.",
     "image": "react",
-    "category": "mern",
+    "category": "Frontend",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "view": "https://saad-007.github.io/Crick/",
+      "code": "https://github.com/Saad-007/Crick"
     }
   }
  ]
