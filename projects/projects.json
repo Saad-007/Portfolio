@@ -20,6 +20,16 @@
     }
   },
   {
+    "name": "ShopPlus",
+    "desc": "Built an Calculator using HTML CSS and Javascript .",
+    "image": "new",
+    "category": "Front-end",
+    "links": {
+      "view": "https://saad-007.github.io/Calculator/",
+      "code": "https://github.com/Saad-007/Calculator"
+    }
+  },
+  {
     "name": "TODO APP",
     "desc": "With the help off javascript basic functionality.",
     "image": "Todo",
