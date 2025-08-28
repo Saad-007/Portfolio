@@ -1,7 +1,27 @@
 [
   {
+    "name": "ShopPlus",
+    "desc": "Full-stack e-commerce platform with React, Tailwind CSS, Node.js, Express, and MongoDB. Features include JWT authentication, product management, cart/wishlist, admin dashboard, and order tracking. Deployed on Vercel and Railway.",
+    "image": "new",
+    "category": "Full-stack",
+    "links": {
+      "view": "https://ecommerce-client-woad.vercel.app/",
+      "code": "https://github.com/Saad-007/ecommerce-client"
+    }
+  },
+  {
+  "name": "ResumeAI",
+  "desc": "AI-powered resume builder and analyzer developed with React, Tailwind CSS, Node.js, Express, and MongoDB. Integrated OpenAI API to generate professional resumes from user prompts with dynamic templates, PDF export, and sharing features. Designed for scalability, responsive UI, and seamless frontend–backend integration. Deployed on Vercel and Render.",
+  "image": "logo",
+  "category": "Full-stack",
+  "links": {
+    "view": "https://client-eight-ochre-21.vercel.app/",
+    "code": "https://github.com/Saad-007/Client"
+  }
+},
+  {
     "name": "MINTRA CLONE",
-    "desc": "Frontend Mintra clone built using HTML CSS AND javascript Now making it more dynmicaly",
+    "desc": "Frontend e-commerce clone of Myntra built with HTML, CSS, and JavaScript. Implemented dynamic product layouts, responsive design, and interactive UI components to replicate core shopping experience.",
     "image": "logo-myntra-41476",
     "category": "Front-end",
     "links": {
@@ -11,7 +31,7 @@
   },
   {
     "name": "CALCULATOR",
-    "desc": "Built an Calculator using HTML CSS and Javascript .",
+    "desc": "Developed a fully functional calculator using HTML, CSS, and JavaScript. Supports real-time operations with clean UI, responsive layout, and basic arithmetic functionalities.",
     "image": "calculator",
     "category": "Front-end",
     "links": {
@@ -20,18 +40,8 @@
     }
   },
   {
-    "name": "ShopPlus",
-    "desc": "Built an Calculator using HTML CSS and Javascript .",
-    "image": "new",
-    "category": "Front-end",
-    "links": {
-      "view": "https://saad-007.github.io/Calculator/",
-      "code": "https://github.com/Saad-007/Calculator"
-    }
-  },
-  {
     "name": "TODO APP",
-    "desc": "With the help off javascript basic functionality.",
+    "desc": "Simple task management app built with HTML, CSS, and JavaScript. Allows users to add, mark, and delete tasks with interactive front-end functionality.",
     "image": "Todo",
     "category": "Front-end",
     "links": {
@@ -41,12 +51,12 @@
   },
   {
     "name": "Small Crick",
-    "desc": "It's a small Crcket Game you can play with your device.",
+    "desc": "Interactive cricket mini-game built with JavaScript. Provides a fun, browser-based experience with dynamic score updates and responsive gameplay.",
     "image": "react",
-    "category": "Frontend",
+    "category": "Front-end",
     "links": {
       "view": "https://saad-007.github.io/Crick/",
       "code": "https://github.com/Saad-007/Crick"
     }
   }
- ]
+]
