@@ -703,7 +703,7 @@ header .navbar ul li a:hover {
   justify-content: center;
 }
 .work .desc p {
-  font-size: 1rem;
+  font-size: 1rem !important;
 }
 .work .desc .btns {
   display: flex;
